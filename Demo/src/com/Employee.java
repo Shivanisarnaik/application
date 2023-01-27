@@ -1,4 +1,5 @@
-class Employee
+package com;
+ public class Employee
 {
 private int id;
 
